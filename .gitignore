@@ -1,4 +1,6 @@
 .DS_Store
+Thumbs.db
 *.swp
 .project
 utils/npm/node_modules/*
+utils/build/log.txt
